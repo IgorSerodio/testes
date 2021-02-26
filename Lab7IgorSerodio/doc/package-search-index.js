@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ufcg.ccc.domino"},{"l":"ufcg.ccc.domino.estrategia"}]

@@ -1,0 +1,17 @@
+Joga mais jogada na mesa(J1) Vs Joga carroças primeiro(J2)
+Jogos:	10000
+J1:		6321 pontos (788 carroças, 106 lá e lô, 32 cruzadas e 4235 vitórias normais)
+J2:		5237 pontos (97 carroças, 196 lá e lô, 1 cruzadas e 4449 vitórias normais)
+Empates:	96 empates
+
+Joga mais jogada na mesa(J1) Vs Joga primeira possível(J2)
+Jogos:	10000
+J1:		7096 pontos (699 carroças, 131 lá e lô, 28 cruzadas e 5137 vitórias normais)
+J2:		4381 pontos (287 carroças, 83 lá e lô, 4 cruzadas e 3534 vitórias normais)
+Empates:	97 empates
+
+Joga carroças primeiro(J1) Vs Joga primeira possível(J2)
+Jogos:	10000
+J1:		7376 pontos (171 carroças, 271 lá e lô, 6 cruzadas e 6185 vitórias normais)
+J2:		3764 pontos (301 carroças, 86 lá e lô, 7 cruzadas e 2862 vitórias normais)
+Empates:	111 empates
